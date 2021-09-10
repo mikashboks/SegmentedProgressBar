@@ -24,7 +24,7 @@ Add SegmentedProgressBar to your app's `build.gradle` dependencies
 
 ```
 dependencies {
-    implementation 'com.github.TOrnelas:SegmentedProgressBar:{latest-version}'
+    implementation 'com.github.mikashboks:SegmentedProgressBar:{latest-version}'
 }
 ```
 Find all versions available [here](https://github.com/TOrnelas/SegmentedProgressBar/releases)
